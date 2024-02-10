@@ -4,8 +4,6 @@ I'm a Backend Developer 🤓 passionate about web technologies and tech stuffs. 
 
 🚩 Member of [Cutting Edge Coders](https://github.com/CuttingEdgeCoders)
 
-💻 I'm available for job offers or also if you want me to join you on a project, the last one would be amazing!.
-
 👀 You can contact me on twitter as [@devfromchiapas](https://twitter.com/devfromchiapas) and send me a DM.
 
 
