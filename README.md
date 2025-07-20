@@ -1,8 +1,4 @@
-### Hi there ✌. I'm Axel Espinosa from Mexico 🇲🇽. 
+### Hi, I'm Axel Espinosa.🇲🇽🌮
 
-My expertise spans React, Node.js, and API development, where I've created solutions that significantly improve user experiences. I'm a strong advocate for code quality and maintainability, often leading refactoring efforts and integrating best practices. Collaborative by nature, I excel in cross-functional teams, aligning projects with business goals.
+I'm a software engineer passionate about building solutions that truly add value. I mainly work as a fullstack developer, using technologies like Node.js, React, MongoDB, and NestJS. I especially enjoy projects where I can learn something new, design clean architectures, and tackle technical challenges that push me out of my comfort zone.
 
-🚩 Member of [Cutting Edge Coders](https://github.com/CuttingEdgeCoders)
-
-
-If you want to know more about my work, you can check out my top repositories below ⬇⬇ and maybe you can leave me a star ⭐
